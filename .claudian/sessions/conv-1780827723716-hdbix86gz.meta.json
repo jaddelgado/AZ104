@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780827723716-hdbix86gz",
+  "providerId": "opencode",
+  "title": "Start session",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780827723721,
+  "updatedAt": 1780829330109,
+  "lastResponseAt": 1780829330109,
+  "sessionId": "ses_15e51923fffexIXAKaLnhgzdKb",
+  "providerState": {
+    "databasePath": "/home/forthwith/.var/app/md.obsidian.Obsidian/data/opencode/opencode.db"
+  },
+  "currentNote": "01-AZ-104_Prerequisites_for_Azure_administrators.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 7936,
+    "contextTokens": 8657,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 721,
+    "model": "opencode:opencode/big-pickle",
+    "percentage": 4
+  }
+}
