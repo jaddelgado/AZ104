@@ -180,10 +180,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 607.5
+    "width": 680.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,6 +195,43 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ac8489ebede2f7ee",
-  "lastOpenFiles": []
+  "active": "0cb6579ff4858a4d",
+  "lastOpenFiles": [
+    "grouped_questions/AZ-104_Virtual_Networks_Questions (1).md",
+    "grouped_questions/AZ-104_Virtual_Networks_Questions.md",
+    "grouped_questions/AZ-104_Monitor_and_Backup_Questions (1).md",
+    "grouped_questions/AZ-104_Monitor_and_Backup_Questions.md",
+    "grouped_questions/AZ-104_Manage_Storage_Questions (1).md",
+    "grouped_questions/AZ-104_Manage_Storage_Questions.md",
+    "grouped_questions/AZ-104_Identity_and_Governance_Questions (1).md",
+    "grouped_questions/AZ-104_Identity_and_Governance_Questions.md",
+    "grouped_questions/AZ-104_Azure_Administration_and_Compute_Questions.md",
+    "grouped_questions",
+    "skillcertpro-questions/00-AZ-104_SkillCertPro_All_Practice_Sets.md",
+    "skillcertpro-questions/practice-set-21.md",
+    "skillcertpro-questions/practice-set-20.md",
+    "skillcertpro-questions/practice-set-19.md",
+    "skillcertpro-questions/practice-set-18.md",
+    "skillcertpro-questions/practice-set-17.md",
+    "skillcertpro-questions/practice-set-16.md",
+    "skillcertpro-questions/practice-set-15.md",
+    "skillcertpro-questions/practice-set-14.md",
+    "skillcertpro-questions/practice-set-13.md",
+    "skillcertpro-questions/practice-set-12.md",
+    "skillcertpro-questions/practice-set-11.md",
+    "skillcertpro-questions/practice-set-10.md",
+    "skillcertpro-questions/practice-set-09.md",
+    "skillcertpro-questions/practice-set-08.md",
+    "skillcertpro-questions/practice-set-07.md",
+    "skillcertpro-questions/practice-set-06.md",
+    "scripts/__pycache__/skillcertpro_to_markdown.cpython-313.pyc",
+    "scripts/__pycache__",
+    "skillcertpro-questions/extracted-all.json",
+    "scripts/cdp_expression.txt",
+    "skillcertpro-questions",
+    "scripts/build_skillcertpro_markdown.py",
+    "scripts/skillcertpro_extract_all.js",
+    "scripts/skillcertpro_extractor.js",
+    "scripts/skillcertpro_to_markdown.py"
+  ]
 }

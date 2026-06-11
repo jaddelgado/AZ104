@@ -4,20 +4,20 @@
   "title": "Start session",
   "titleGenerationStatus": "success",
   "createdAt": 1780827723721,
-  "updatedAt": 1780829330109,
-  "lastResponseAt": 1780829330109,
-  "sessionId": "ses_15e51923fffexIXAKaLnhgzdKb",
+  "updatedAt": 1781025799145,
+  "lastResponseAt": 1781025799145,
+  "sessionId": "ses_152972bcbffeI5qPDS2j6rPGfG",
   "providerState": {
     "databasePath": "/home/forthwith/.var/app/md.obsidian.Obsidian/data/opencode/opencode.db"
   },
   "currentNote": "01-AZ-104_Prerequisites_for_Azure_administrators.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 7936,
-    "contextTokens": 8657,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 8072,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 721,
+    "inputTokens": 8072,
     "model": "opencode:opencode/big-pickle",
     "percentage": 4
   }
