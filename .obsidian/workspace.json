@@ -192,7 +192,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "0cb6579ff4858a4d",
